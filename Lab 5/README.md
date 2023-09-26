@@ -1,4 +1,3 @@
-# SIC-Project
 1-Data Split:
 The data was divided into three sections: Training, Testing, and Validating.
 
